@@ -1,0 +1,91 @@
+.footer-email-field-custom input{
+width: 100%;
+}
+.footer-email-field-custom svg{
+    position: absolute;
+    top: 30.5%;
+    right: 10%;
+    transform: translate(-50%, -50%) rotate(11deg);
+}
+@media (max-width:958px){
+    .footer-email-field-custom svg{
+        position: absolute;
+        top: 35%;
+        right: 10%;
+        transform: translate(-50%, -50%) rotate(11deg);
+    }
+}
+@media (max-width:626px){
+    .footer-email-field-custom svg{
+        position: absolute;
+        top: 30%;
+        right: 10%;
+        transform: translate(-50%, -50%) rotate(11deg);
+    }
+}
+@media (max-width:530px){
+    .footer-email-field-custom svg{
+        position: absolute;
+        top: 35%;
+        right: 10%;
+        transform: translate(-50%, -50%) rotate(11deg);
+    }
+}
+@media (max-width:355px){
+    .footer-email-field-custom svg{
+        position: absolute;
+        top: 31.5%;
+        right: 10%;
+        transform: translate(-50%, -50%) rotate(11deg);
+    }
+}
+
+@media (max-width:630px){
+    .footer-alignment-custom-section{
+        width: 100%;
+    }
+}
+@media (max-width:1024px){
+    .footer-email-field-custom svg {
+        position: absolute;
+        top: 30.5%;
+        right: 8%;
+        transform: translate(-50%, -50%) rotate(11deg);
+    }
+}
+@media (max-width: 630px) {
+    .footer-email-field-custom svg {
+        position: absolute;
+        top: 35.5%;
+        right: 6%;
+        transform: translate(-50%, -50%) rotate(11deg);
+    }
+}
+@media (max-width: 355px) {
+    .footer-email-field-custom svg {
+        position: absolute;
+        top: 32%;
+        right: 9%;
+        transform: translate(-50%, -50%) rotate(11deg);
+    }
+}
+
+@media (max-width:991px){
+    .footer-alignment-custom-section{
+        width: 50%;
+    }
+}
+@media (max-width:630px){
+    .footer-alignment-custom-section{
+        width: 100%;
+    }   
+}
+.footer-page{
+    background-color: #263238;
+}
+.footer-alignment-custom-section img{
+    width: 38px;
+}
+.footer-alignment-custom {
+    width: 92%;
+}
